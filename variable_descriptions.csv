@@ -1,0 +1,25 @@
+﻿la_code,Local authority district code
+la_name,Local authority district name
+msoa11cd,Middle super output area code
+msoa_name,Middle super output area name
+all_employees,Total employees working in MSOA 
+work_flow,Total employees working in MSOA who can work from home
+work_home,Proportion of employees working in MSOA who can work from home
+all_resident,Total employees living in MSOA 
+resid_flow,Total employees living in MSOA who can work from home
+resid_home,Proportion of employees living in MSOA who can work from home
+zoomshock,Zoomshock: net change in MSOA working activities due to remote working (equation 2 in Zoomshock paper)
+IMD,"Index of multiple deprivation. Calculated as the mean of IMD for all LSOAs, renormalized such that higher value = more deprived."
+,
+,
+,
+,
+,
+,
+Data source,
+Population counts are based on 2011 Census estimates. Public data available from ONS Nomis: https://www.nomisweb.co.uk/ ,
+"Homework index by 4-digit SOC code as described in De Fraja, Matheson, and Rockey (2021). Indices for 2- and 3-digit SOC codes reflect averages of 4-digit codes weighted using the Quarterly Labour Force Survey micro-data (2017-2019).   ",
+"Queries or questions, please contact Jesse Matheson (j.matheson@sheffield.ac.uk)",
+,
+"De Fraja, G., J. Matheson, J. Rockey, 2021. ""Zoomshock: The Geography and Local Labour Market Consequences of Working from Home"", Covid Economics, Issue 64, 13 January 2021, 1-41",
+Available at : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3752977,
